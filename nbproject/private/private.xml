@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/utils/DBConnection.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/login/LoginForm.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/dashboard/Dashboard.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/products/ProductForm.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/inventory/StockInOutForm.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/reports/ReportForm.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/utils/QRCodeGenerator.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/utils/centerFrame.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/Payment/PaymentForm.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/model/PaymentModel.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/model/BaseTransaction.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/processor/CardPaymentProcessor.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/QrScanner/QRCodeScanner.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/QrScanner/AnimatedScannerPanel.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/QrScanner/TestScanner.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/utils/RoundedPanel.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/Settings/SettingsForm.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/service/SettingsService.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/Settings/Settings.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/users/userForm.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/utils/RoundedBorder.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/InventoryTrend/InventoryTrendForm.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/utils/TransitionHelper.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/login/GenerateQRDialog.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/Virdha/Virdha%20Personal/Java%20Projects/NetBeans%20Projects/InventoryQRSystem/src/login/QRScannerForm.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -22,6 +22,27 @@ A desktop **Inventory Management System** built with **Java Swing** and **MySQL*
 
 ---
 
+## 📸 Screenshots
+
+### Inventory Report
+![Inventory Report](Screenshot/InventoryRep.png)
+
+### Stock Movement Trend Report
+![Stock Movement Trend Report](Screenshot/StockMovementTrenReport.png)
+
+### Recent Inventory
+![Recent Inventory](Screenshot/RecentInventory.png)
+
+
+### Sample QR Codes
+
+| Product QR Code | Login QR Code |
+|:---:|:---:|
+| ![Product QR](ProductQRCodes/Notebook_P008.png) | ![Login QR](QR%20Code%20Generation/virdha_loginQR.png) |
+| Notebook (P008) | Login QR (virdha) |
+
+---
+
 ## 🛠️ Tech Stack
 
 | Component | Technology |
@@ -49,9 +70,11 @@ InventoryQRSystem/
 ├── dist/
 │   ├── InventoryQRSystem.jar   Ready-to-run application
 │   └── lib/                    All required .jar libraries
-├── QR Code Generation/         Generated QR images are saved here
+├── QR Code Generation/         Generated login QR images are saved here
+├── ProductQRCodes/             Product QR code images
+├── Screenshot/                 Screenshots used in this README
 ├── database/
-│   └── inventory_db.sql        Database export 
+│   └── inventory_db.sql        Database export
 └── README.md
 ```
 

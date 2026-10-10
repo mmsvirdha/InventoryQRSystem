@@ -51,7 +51,7 @@ InventoryQRSystem/
 │   └── lib/                    All required .jar libraries
 ├── QR Code Generation/         Generated QR images are saved here
 ├── database/
-│   └── inventory_db.sql        Database export (import this first)
+│   └── inventory_db.sql        Database export 
 └── README.md
 ```
 
